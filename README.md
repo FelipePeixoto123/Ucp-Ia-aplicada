@@ -34,7 +34,7 @@ public double divide(double a, double b) {
 
 ```from groq import Groq
 
-client = Groq(api_key="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")
+client = Groq(api_key="")
 
 completion = client.chat.completions.create(
     model="llama-3.3-70b-versatile",
@@ -55,8 +55,8 @@ completion = client.chat.completions.create(
 )   
 
 for chunk in completion:
-    print(chunk.choices[0].delta.content or "", end="")```
- 
+    print(chunk.choices[0].delta.content or "", end="")
+ ```
 ---
 
 ###Possiveis erros
