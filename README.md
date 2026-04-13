@@ -59,7 +59,7 @@ for chunk in completion:
  ```
 ---
 
-##Possiveis erros
+### Possiveis erros
 
 **O uso de doubles pode causar imprecisão**
 
