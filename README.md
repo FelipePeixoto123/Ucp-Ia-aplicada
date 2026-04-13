@@ -1,13 +1,12 @@
-# Ucp-Ia-aplicada
+# UCP IA APLICADA A ENGENHARIA DE SOFTWARE
+   
+## Tarefa 1
 
-Esse é um repositório usado para salvar as tarefas e atividades realizadas por mim (Felipe Peixoto) na UCP1 - IA aplicada em engenharia de software
+## Tarefa 2
 
-## Tecnologias
--[WinPython](https://sourceforge.net/projects/winpython/)
--[Groq](https://console.groq.com/playground)
--[CodeLLama](https://ollama.com/library/codellama)
 
-# Cronologia
+
+
 
 
 
