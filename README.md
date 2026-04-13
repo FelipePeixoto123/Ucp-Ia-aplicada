@@ -32,7 +32,8 @@ public double divide(double a, double b) {
 
 #### Codigo utilizado
 
-```from groq import Groq
+```python
+from groq import Groq
 
 client = Groq(api_key="")
 
@@ -150,7 +151,7 @@ Os problemas corrigidos incluem:
 
 ### Codigo utilizado
 
-```
+```python
 from groq import Groq
 
 client = Groq(api_key="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")
