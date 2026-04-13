@@ -5,7 +5,7 @@
 ## Tarefa 2
 
 **O texto abaixo foi feito utilizando o modelo do code llama juntamente da chave API do Groq para informar possiveis erros e corrigir o seguinte codigo em java**
----
+
 ```java
 public int divide(int a, int b) {
     if (b == 0) {
@@ -78,7 +78,7 @@ Esse cálculo resulta em um valor fora do limite do tipo int.
 ### Segunda etapa da tarefa
 
 **O  resultado seguinte foi gerado pelo codeLLama , utilizando o mesmo código anterior e mudando apenas o prompt**
----
+
 **Análise do Código**
 
 O código fornecido é um método Java que realiza a divisão de dois números inteiros. No entanto, há um problema potencial com este código: ele não lida com a possibilidade de divisão por zero.
